@@ -4,3 +4,7 @@ numpy
 matplotlib
 seaborn
 geopandas
+squarify
+pydeck
+folium
+streamlit-folium
